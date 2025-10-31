@@ -26,8 +26,8 @@ A stylish, money-themed classroom leaderboard built with HTML, CSS, and JavaScri
 ---
 
 ## 📸 Screenshot
-![Leaderboard Screenshot](![Leaderboard Screenshot](https://raw.githubusercontent.com/riahdollxo/classroom-leaderboard/main/IMG_7882.jpg)
-)
+![Leaderboard Screenshot]([Leaderboard Screenshot](https://raw.githubusercontent.com/riahdollxo/classroom-leaderboard/main/IMG_7882.jpg)
+
 
 ---
 
