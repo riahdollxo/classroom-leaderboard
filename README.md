@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="leaderboard-banner.png" alt="Classroom Leaderboard Banner" width="100%">
+</p>
 # 💵 Classroom Leaderboard
 
 A stylish, money-themed classroom leaderboard built with **HTML**, **CSS**, and **JavaScript**.  
