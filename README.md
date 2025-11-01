@@ -14,17 +14,21 @@ Designed to gamify learning by tracking student scores, rankings, and achievemen
 ---
 
 ## ✨ Features
-- Add and update player names and scores  
-- Animated money-themed visuals  
-- Clean, responsive layout  
-- Simple to customize for any classroom or competition  
+- 🏆 Displays real-time student rankings  
+- 💵 Money-themed animations for motivation  
+- 🎯 Tracks scores, achievements, and progress  
+- 🖥️ Built with HTML, CSS, and JavaScript  
+- ⚡ Lightweight and responsive for all screens  
 
 ---
 
 ## 🧠 Tech Stack
-- **HTML5** — Structure  
-- **CSS3** — Styling and animation  
-- **JavaScript** — Logic and interactivity  
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Structure & layout |
+| **CSS3** | Styling & animation |
+| **JavaScript (ES6)** | Logic & interactivity |
+| **GitHub Pages** | Deployment |
 
 ---
 
