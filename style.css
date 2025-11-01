@@ -1,0 +1,62 @@
+.pts-text {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: .04em;
+  font-weight: 900;
+  font-size: 26px;
+}
+
+.pts-edit {
+  background: transparent;
+  border: 1px dashed rgba(255,255,255,.35);
+  padding: 6px 10px;
+  border-radius: 10px;
+  color: #fff;
+}
+
+/* Controls */
+.controls {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+}
+
+.controls button {
+  padding: 10px 12px;
+  min-width: 64px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,.28);
+  background: rgba(0,0,0,.45);
+  color: #fff;
+}
+
+.btn.plus { background: #164224 }
+.btn.plus5 { background: #10463f }
+.btn.minus { background: #3a2020 }
+.btn.reset { background: #1b1b25 }
+.btn.remove { background: #392020 }
+
+/* Flaps */
+.flaps { display: none; gap: 6px; }
+
+@media (min-width: 760px) {
+  .flaps { display: flex; }
+}
+
+.slot {
+  width: var(--slot-w);
+  height: var(--slot-h);
+  perspective: 320px;
+  border-radius: 8px;
+  position: relative;
+}
+
+.tile {
+  position: absolute;
+  inset: 0;
+  transform-style: preserve-3d;
+  transition: transform var(--speed) cubic-bezier(.2,.6,.2,1);
+}
+
+.face {
+  position: absolute
