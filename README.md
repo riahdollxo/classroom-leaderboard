@@ -39,7 +39,7 @@ Designed to gamify learning by tracking student scores, rankings, and achievemen
 
 ## 👩🏽‍💻 About the Creator
 --- 
-**Mariah Piggs** — a creative technologist and product-minded student passionate about blending design, innovation, and interactive learning experiences.  
+**Mariah Piggs** — A creative technologist and product-minded student passionate about blending design, innovation, and interactive learning experiences.  
 
 🎓 *Florida A&M University* — Information Technology Major  
 💡 *BVCC Product Manangement Fellow | Gulf Scholars Program | The Data Mine Researcher*  
